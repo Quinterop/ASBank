@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<accounts>
+    <account label="Savings" balance="1000.00" accountNumber="0" clientNumber="1" />
+    <account label="Checking" balance="2000.00" accountNumber="1" clientNumber="2" />
+    <account label="Investment" balance="3000.00" accountNumber="2" clientNumber="0" />
+    <account label="Savings" balance="4000.00" accountNumber="3" clientNumber="1" />
+    <account label="Checking" balance="5000.00" accountNumber="4" clientNumber="2" />
+    <account label="Investment" balance="6000.00" accountNumber="5" clientNumber="0" />
+    <account label="Savings" balance="7000.00" accountNumber="6" clientNumber="1" />
+    <account label="Checking" balance="8000.00" accountNumber="7" clientNumber="2" />
+    <account label="Investment" balance="9000.00" accountNumber="8" clientNumber="0" /> 
+    <account label="Savings" balance="10000.00" accountNumber="9" clientNumber="1" />
+    <account label="Checking" balance="11000.00" accountNumber="10" clientNumber="2" />
+    <account label="Investment" balance="12000.00" accountNumber="11" clientNumber="0" />
+    <account label="Savings" balance="13000.00" accountNumber="12" clientNumber="1" />
+    <account label="Checking" balance="14000.00" accountNumber="13" clientNumber="2" />
+    <account label="Investment" balance="15000.00" accountNumber="14" clientNumber="0" />
+    <account label="Savings" balance="16000.00" accountNumber="15" clientNumber="1" />
+    <account label="Checking" balance="17000.00" accountNumber="16" clientNumber="2" />
+    <account label="Investment" balance="18000.00" accountNumber="17" clientNumber="0" />
+
+    <account label="Savings" balance="19000.00" accountNumber="18" clientNumber="1" />
+    <account label="Checking" balance="20000.00" accountNumber="19" clientNumber="2" />
+    <account label="Investment" balance="21000.00" accountNumber="20" clientNumber="0" />
+    <account label="Savings" balance="22000.00" accountNumber="21" clientNumber="1" />
+    <account label="Checking" balance="23000.00" accountNumber="22" clientNumber="2" />
+    <account label="Investment" balance="24000.00" accountNumber="23" clientNumber="0" />
+    <account label="Savings" balance="25000.00" accountNumber="24" clientNumber="1" />
+    <account label="Checking" balance="26000.00" accountNumber="25" clientNumber="2" />
+
+    <account label="Investment" balance="27000.00" accountNumber="26" clientNumber="0" />
+    <account label="Savings" balance="28000.00" accountNumber="27" clientNumber="1" />
+    <account label="Checking" balance="29000.00" accountNumber="28" clientNumber="2" />
+    <account label="Investment" balance="30000.00" accountNumber="29" clientNumber="0" />
+    <account label="Savings" balance="31000.00" accountNumber="30" clientNumber="1" />
+    <account label="Checking" balance="32000.00" accountNumber="31" clientNumber="2" />
+    <account label="Investment" balance="33000.00" accountNumber="32" clientNumber="0" />
+    <account label="Savings" balance="34000.00" accountNumber="33" clientNumber="1" />
+    <account label="Checking" balance="35000.00" accountNumber="34" clientNumber="2" />
+    <account label="Investment" balance="36000.00" accountNumber="35" clientNumber="0" />
+    <account label="Savings" balance="37000.00" accountNumber="36" clientNumber="1" />
+    
+
+</accounts>

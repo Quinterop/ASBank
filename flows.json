@@ -1,0 +1,26 @@
+[
+    {
+        "comment": "Payment for groceries",
+        "identifier": 1,
+        "amount": 50.0,
+        "targetAccountNumber": 3,
+        "effect": true,
+        "flowDate": "2022-01-01"
+    },
+    {
+        "comment": "Transfer to savings account",
+        "identifier": 2,
+        "amount": 100.0,
+        "targetAccountNumber": 2,
+        "effect": true,
+        "flowDate": "2022-02-01"
+    },
+    {
+        "comment": "Loan repayment",
+        "identifier": 3,
+        "amount": 200.0,
+        "targetAccountNumber": 1,
+        "effect": false,
+        "flowDate": "2022-03-01"
+    }
+]

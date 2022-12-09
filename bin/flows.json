@@ -1,0 +1,24 @@
+{
+    "Flow":{
+        "flows": [
+            {"comment":"", "identifier":0, "amount":50, "targetAccountNumber":1, "effect": false, "flowDate": "" },
+            {"comment":"", "identifier":0, "amount":50, "targetAccountNumber":0, "effect": false, "flowDate": ""},
+            {"comment":"", "identifier":0, "amount":50, "targetAccountNumber":0, "effect": false, "flowDate": ""},
+            {"comment":"", "identifier":0, "amount":50, "targetAccountNumber":0, "effect": false, "flowDate": ""},
+            {"comment":"", "identifier":0, "amount":50, "targetAccountNumber":0, "effect": false, "flowDate": ""},
+            {"comment":"", "identifier":0, "amount":50, "targetAccountNumber":0, "effect": false, "flowDate": ""},
+            {"comment":"", "identifier":0, "amount":50, "targetAccountNumber":0, "effect": false, "flowDate": ""},
+            {"comment":"", "identifier":0, "amount":50, "targetAccountNumber":0, "effect": false, "flowDate": ""},
+            {"comment":"", "identifier":0, "amount":50, "targetAccountNumber":0, "effect": false, "flowDate": ""},
+            {"comment":"", "identifier":0, "amount":50, "targetAccountNumber":0, "effect": false, "flowDate": ""},
+            {"comment":"", "identifier":0, "amount":50, "targetAccountNumber":0, "effect": false, "flowDate": ""},
+            {"comment":"", "identifier":0, "amount":50, "targetAccountNumber":0, "effect": false, "flowDate": ""},
+            {"comment":"", "identifier":0, "amount":50, "targetAccountNumber":0, "effect": false, "flowDate": ""},
+            {"comment":"", "identifier":0, "amount":50, "targetAccountNumber":0, "effect": false, "flowDate": ""},
+            {"comment":"", "identifier":0, "amount":50, "targetAccountNumber":0, "effect": false, "flowDate": ""},
+            {"comment":"", "identifier":0, "amount":50, "targetAccountNumber":0, "effect": false, "flowDate": ""},
+            {"comment":"", "identifier":0, "amount":50, "targetAccountNumber":0, "effect": false, "flowDate": ""},
+           
+        ]
+    }
+}

@@ -1,0 +1,1 @@
+uncomment json and xml methods and comment the load and fill methods to test

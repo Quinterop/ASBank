@@ -1,0 +1,19 @@
+{
+    "java.project.sourcePaths": [
+        "src"
+    ],
+    "java.project.outputPath": "bin",
+    "java.project.referencedLibraries": {
+        "include": [
+            "lib/**/*.jar",
+            "src\\jackson-databind-2.14.1.jar",
+            "jackson-annotations-2.14.1.jar",
+            "jackson-core-2.14.1.jar",
+            "jackson-databind-2.14.1.jar",
+            "jackson-datatype-jsr310-2.12.0.jar"
+        ],
+        "exclude": [
+            "src/jackson-databind-2.14.1.jar"
+        ]
+    }
+}
